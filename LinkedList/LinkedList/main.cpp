@@ -882,15 +882,15 @@ void insert_data(NODE* temp, NODE* prev, NODE* next)
 	next->prev = temp;
 }
 
-#define  INSERT_DATA(temp, p, n) \
-do{                           \
-	(temp)->next = (n);    \
-	(p)->next = (temp);    \
-	(temp)->prev = (p);    \
-	(n)->prev = (temp);    \
+#define INSERT_DATA(temp, p, n)     \
+do{                                \
+    NODE *prev = (p);              \
+    NODE *next = (n);              \
+	(temp)->next = next;           \
+	prev->next = (temp);           \
+	(temp)->prev = prev;           \
+	next->prev = (temp);           \
 }while(0)
-
-
 
 void insert_front(NODE* temp, NODE* head)
 {
@@ -958,7 +958,7 @@ int main()
 
 	init();
 	start = clock();
-	for (j = 0; j < 100000; j++)
+	for (j = 0; j < 10000; j++)
 	{
 		sawon_count = 0;
 		for (i = 0; i < 1000; i++)
@@ -967,8 +967,8 @@ int main()
 			s->sid = i + 1;
 			//insert_back(&s->list, &head);
 			//INSERT_BACK(&s->list, &head);
-			//INSERT_DATA(&s->list, &head, head.next);
-			insert_data(&s->list, &head, head.next);
+			INSERT_DATA(&s->list, &head, head.next);
+			//insert_data(&s->list, &head, head.next);
 		}
 	}
 	end = clock();
