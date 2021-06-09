@@ -17,21 +17,41 @@ void insert_data(NODE* temp, NODE* prev, NODE* next)
 	next->prev = temp;
 }
 
+#define INSERT_DATA(t,p,n)               \
+do{                                      \
+	(t)->next = (n);                     \
+	(p)->next = (t);                     \
+	(t)->prev = (p);                     \
+	(n)->prev = (t);                     \
+} while(0)
+
 void insert_front(NODE* temp, NODE* head)
 {
 	insert_data(temp, head, head->next);
 }
+
+#define INSERT_FRONT(temp, head)     \
+	INSERT_DATA((temp), (head), (head)->next)
 
 void insert_back(NODE* temp, NODE* head)
 {
 	insert_data(temp, head->prev, head);
 }
 
+#define INSERT_BACK(temp, head)     \
+	INSERT_DATA((temp), (head)->prev, (head))
+
 void delete_node(NODE* temp)
 {
 	temp->prev->next = temp->next;
 	temp->next->prev = temp->prev;
 }
+
+#define  DELETE_NODE(temp)                \
+do{                                       \
+	(temp)->prev->next = (temp)->next;    \
+	(temp)->next->prev = (temp)->prev;    \
+}while(0)
 
 #define list_entry(ptr, type, member)     \
 ((type*)((char*)ptr - (unsigned long)&((type*)0)->member))
@@ -75,129 +95,18 @@ int main()
 	SAWON* s;
 	int i,j;
 	clock_t start, end;
-
+	
 	init();
+
 	start = clock();
 	for (i = 0; i < 100000; i++)
 	{
-		sawon_count = 0;
-		for (j = 0; j < 1000; j++)
-		{
-			s = &sawons[sawon_count++];
-			s->sid = j + 1;
-			insert_front(&s->list, &head);
-			// insert_data(&s->list, &head, head.next);
-		}
-	}
-	end = clock();
-	printf("%lu\n", end - start);
-
-	return 0;
-}
-#endif
-
-#if 0
-#include <stdio.h>
-#include <time.h>
-
-typedef struct _node
-{
-	struct _node* next, * prev;
-} NODE;
-
-NODE head;
-
-void insert_data(NODE* temp, NODE* prev, NODE* next)
-{
-	temp->next = next;
-	prev->next = temp;
-	temp->prev = prev;
-	next->prev = temp;
-}
-
-#define INSERT_DATA(t,p,n)             \
-do{                                    \
-	(t)->next = (n);                   \
-	(p)->next = (t);                   \
-	(t)->prev = (p);                   \
-	(n)->prev = (t);                   \
-}while(0)
-
-void insert_front(NODE* temp, NODE* head)
-{
-	insert_data(temp, head, head->next);
-}
-
-#define INSERT_FRONT(temp, head)       \
-	INSERT_DATA((temp), (head), (head)->next)
-
-void insert_back(NODE* temp, NODE* head)
-{
-	insert_data(temp, head->prev, head);
-}
-
-void delete_node(NODE* temp)
-{
-	temp->prev->next = temp->next;
-	temp->next->prev = temp->prev;
-}
-
-#define list_entry(ptr, type, member)     \
-((type*)((char*)ptr - (unsigned long)&((type*)0)->member))
-
-#define list_for_each(temp, head)     \
-for(temp=(head)->next;temp!=(head);temp=temp->next)
-
-//--------------------------------------------------
-
-typedef struct sawon
-{
-	int sid;
-	NODE list;
-}SAWON;
-
-SAWON sawons[1000];
-int sawon_count;
-
-void init()
-{
-	head.next = &head;
-	head.prev = &head;
-	sawon_count = 0;
-}
-
-SAWON* find_data(int data, NODE* head)
-{
-	NODE* temp;
-	SAWON* s;
-	list_for_each(temp, head)
-	{
-		s = list_entry(temp, SAWON, list);
-		if (s->sid == data)
-			return s;
-	}
-	return 0;
-}
-
-int main()
-{
-	SAWON* s;
-	int i, j;
-	clock_t start, end;
-
-	init();
-	start = clock();
-	for (i = 0; i < 100000; i++)
-	{
-		sawon_count = 0;
 		for (j = 0; j < 1000; j++)
 		{
 			s = &sawons[sawon_count++];
 			s->sid = j + 1;
 			//insert_front(&s->list, &head);
 			INSERT_FRONT(&s->list, &head);
-			//insert_data(&s->list, &head, head.next);
-			// INSERT_DATA(&s->list, &head, head.next);
 		}
 	}
 	end = clock();
@@ -462,7 +371,7 @@ unsigned int hash_name(char* name)
 	unsigned int hx = 0;
 	for (i = 0; name[i]; i++)
 	{
-		hx = hx << 1 + name[i];
+		hx = (hx << 1) + name[i];
 	}
 	return hx;
 }
@@ -471,10 +380,13 @@ SAWON* find_name_list(char *name, NODE* head)
 {
 	NODE* temp;
 	SAWON* s;
+	unsigned int name_id;
+
 	list_for_each(temp, head)
 	{
-		s = list_entry(temp, SAWON, hash_list);
-		if (s->name_id == hash_name(name))
+		s = list_entry(temp, SAWON, list);
+		name_id = hash_name(name);
+		if (s->name_id == name_id )
 		{
 			if( my_strcmp( s->name, name ) == 0 )
 				return s;
@@ -487,6 +399,7 @@ SAWON* find_name_hash(char* name, NODE* head)
 {
 	NODE* temp;
 	SAWON* s;
+	
 	list_for_each(temp, head)
 	{
 		s = list_entry(temp, SAWON, hash_list);
@@ -526,12 +439,12 @@ int main()
 	start = clock();
 	for (i = 0; i < 1000; i++)
 	{
-		for (j = 0; j < 1000; j++)
+		for (j = 0; j < 1; j++)
 		{
 			unsigned int index;
 			index = hash_name(name[i]);
-	//		s = find_name_list(name[rand() % 1000], &head);
-			s = find_name_hash(name[rand() % 1000], &hash_heads[index % HASH_MAX]);
+			s = find_name_list(name[rand() % 1000], &head);
+			//s = find_name_hash(name[rand() % 1000], &hash_heads[index % HASH_MAX]);
 		}
 	}
 	end = clock();
