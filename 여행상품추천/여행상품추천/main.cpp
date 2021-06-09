@@ -114,10 +114,12 @@ typedef struct node
 
 #define __list_add(temp, p, n)     \
 do{                                \
-	(temp)->next = (n);            \
-	(p)->next = (temp);            \
-	(temp)->prev = (p);            \
-	(n)->prev = (temp);            \
+    NODE *prev = (p);              \
+    NODE *next = (n);              \
+	(temp)->next = next;           \
+	prev->next = (temp);           \
+	(temp)->prev = prev;           \
+	next->prev = (temp);           \
 }while(0)
 
 
