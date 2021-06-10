@@ -1,0 +1,1695 @@
+10 100
+35 6 6
+100 one number 1 1 0 1 1 1
+100 two number 1 1 0 1 6 1
+100 three number 1 1 0 6 1 1
+100 four number 1 1 0 6 6 1
+400 1 1 1 one number
+400 1 2 0
+500 number 4
+500 fruit 0
+200 apple 0
+300 fruit 0
+100 apple fruit 3 3 1 5 6 1
+100 kiwi fruit 2 3 1 1 1 1
+100 banana fruit 5 5 1 1 1 0
+500 fruit 15
+400 3 3 1 apple fruit
+200 one 1
+200 five 0
+500 number 3
+400 1 1 0
+300 number 3
+500 number 0
+400 6 1 0
+300 number 0
+300 fruit 2
+300 fruit 0
+500 number 0
+500 fruit 0
+500 snack 0
+100 test test 3 4 0 2 3 1
+100 tast test 1 1 0 3 4 0
+100 tvst test 6 2 0 1 2 0
+100 taest test 2 2 0 6 6 0
+500 test 12
+200 test 1
+500 test 0
+100 10 10
+100 bgifkqxdv jbesogl 2 2 0 4 2 1
+100 gkyriroyai lbm 2 2 0 5 4 1
+100 grc lcpfj 2 2 0 5 8 1
+100 iegmdx lm 2 2 0 2 7 1
+100 imvqmujfz mfpsbgeku 2 2 0 2 3 1
+100 jbesogl nxshmnuf 2 2 0 4 6 1
+100 lbm omxjxihk 2 2 0 7 8 1
+100 lcpfj ppist 2 2 0 7 2 1
+100 lm sighhj 2 2 0 7 5 1
+100 mfpsbgeku szev 2 2 0 2 5 1
+200 lcpfj 1
+300 lm 1
+400 5 8 1 grc lcpfj
+400 2 7 0
+400 7 2 0
+400 7 5 1 lm sighhj
+100 likcwgmmu gkyriroyai 3 4 1 8 9 1
+400 7 1 1 likcwgmmu gkyriroyai
+400 9 4 1 likcwgmmu gkyriroyai
+100 frugyo wnuy 10 1 1 4 8 1
+400 1 10 1 frugyo wnuy
+400 10 10 1 frugyo wnuy
+100 aacye ppist 2 3 1 7 9 1
+400 9 5 1 aacye ppist
+400 10 7 1 aacye ppist
+100 dq bgifkqxdv 1 4 1 3 10 1
+400 1 1 1 dq bgifkqxdv
+400 1 4 1 dq bgifkqxdv
+100 zukg nxshmnuf 1 4 1 4 10 1
+400 10 1 1 zukg nxshmnuf
+400 10 4 1 zukg nxshmnuf
+100 uwqsyu omxjxihk 3 1 1 2 6 1
+400 2 1 1 uwqsyu omxjxihk
+400 4 1 1 uwqsyu omxjxihk
+100 nzwr ppist 2 2 1 3 2 1
+400 1 7 1 nzwr ppist
+400 2 8 1 nzwr ppist
+100 pb bgifkqxdv 4 1 1 6 6 1
+400 1 9 1 pb bgifkqxdv
+400 4 9 1 pb bgifkqxdv
+100 bxvhaunu lbm 1 1 1 2 1 1
+400 5 1 1 bxvhaunu lbm
+400 5 1 1 bxvhaunu lbm
+100 vce lm 1 2 1 7 1 1
+400 6 1 1 vce lm
+400 6 2 1 vce lm
+100 hsaeyewijv imvqmujfz 2 1 1 3 10 1
+400 2 2 1 hsaeyewijv imvqmujfz
+400 3 2 1 hsaeyewijv imvqmujfz
+100 sqgqjddzj sighhj 1 2 1 4 10 1
+400 4 4 1 sqgqjddzj sighhj
+400 4 5 1 sqgqjddzj sighhj
+100 ninotpupyl szev 3 1 1 5 7 1
+400 6 7 1 ninotpupyl szev
+400 8 7 1 ninotpupyl szev
+100 mcwxzra gkyriroyai 2 2 1 1 8 1
+400 9 8 1 mcwxzra gkyriroyai
+400 10 9 1 mcwxzra gkyriroyai
+100 hvrbjkc nxshmnuf 1 2 1 5 7 1
+400 1 5 1 hvrbjkc nxshmnuf
+400 1 6 1 hvrbjkc nxshmnuf
+100 exmowicauu lm 2 1 1 7 5 1
+400 3 8 1 exmowicauu lm
+400 4 8 1 exmowicauu lm
+100 duipsi vi 1 1 1 3 5 1
+400 6 3 1 duipsi vi
+400 6 3 1 duipsi vi
+100 oa vpbpvskfz 5 9 1 2 2 0
+300 omxjxihk 2
+300 gkyriroyai 2
+300 wnuy 1
+100 dvnu gkyriroyai 7 1 1 7 3 1
+400 1 10 1 dvnu gkyriroyai
+400 7 10 1 dvnu gkyriroyai
+100 wwdfytreou szev 3 4 1 2 5 1
+400 7 1 1 wwdfytreou szev
+400 9 4 1 wwdfytreou szev
+100 ixjdcjfn mfpsbgeku 3 2 1 7 2 1
+400 7 8 1 ixjdcjfn mfpsbgeku
+400 9 9 1 ixjdcjfn mfpsbgeku
+100 kn iegmdx 1 2 1 2 8 1
+400 10 8 1 kn iegmdx
+400 10 9 1 kn iegmdx
+100 ngmwfpujw imvqmujfz 1 1 1 7 2 1
+400 2 1 1 ngmwfpujw imvqmujfz
+400 2 1 1 ngmwfpujw imvqmujfz
+100 qhgflc imvqmujfz 2 1 1 3 10 1
+400 3 1 1 qhgflc imvqmujfz
+400 4 1 1 qhgflc imvqmujfz
+100 gnlbvcxqxh gkyriroyai 3 1 1 7 2 1
+400 8 10 1 gnlbvcxqxh gkyriroyai
+400 10 10 1 gnlbvcxqxh gkyriroyai
+100 wrxouk sighhj 3 1 1 9 2 0
+300 sighhj 2
+300 nxshmnuf 3
+300 iegmdx 1
+100 ez ppist 2 2 1 5 4 1
+400 7 5 1 ez ppist
+400 8 6 1 ez ppist
+100 oslkos vpbpvskfz 2 2 1 1 1 1
+50 25 37
+100 bucqgnic oelvks 23 4 0 11 18 0
+100 twb oelvks 4 12 0 9 10 1
+100 zurk lipylbk 6 22 0 6 9 0
+100 eiqv lipylbk 4 35 0 10 7 0
+100 autqiaodpi qdpknzaesw 12 21 0 6 13 0
+100 urdub qdpknzaesw 23 12 1 17 3 1
+100 voi qdpknzaesw 5 28 0 15 5 0
+100 xfntkgy lipylbk 22 16 0 2 1 0
+100 gnkdloty oelvks 19 24 0 7 28 0
+100 zzdmvvkek lipylbk 25 16 0 8 11 0
+500 qdpknzaesw 276
+500 qdpknzaesw 276
+300 lipylbk 0
+500 lipylbk 0
+400 19 16 0
+100 jbtjsgr qdpknzaesw 13 9 1 15 29 1
+400 17 23 1 urdub qdpknzaesw
+200 cm 0
+500 qdpknzaesw 393
+100 iilcwgpx lipylbk 11 8 0 1 15 0
+500 oelvks 48
+400 16 5 0
+300 oelvks 1
+100 icjev qdpknzaesw 21 9 0 25 2 0
+200 iilcwgpx 0
+400 11 15 0
+500 lipylbk 0
+500 qdpknzaesw 393
+200 um 0
+500 oelvks 0
+300 lipylbk 0
+100 ddpobizmx qdpknzaesw 18 19 0 23 7 0
+500 oelvks 0
+300 oelvks 0
+200 pqzwinmfkx 0
+500 qdpknzaesw 393
+100 lfq lipylbk 10 12 0 22 21 0
+100 io oelvks 22 11 0 23 15 0
+100 hjx lipylbk 24 6 0 11 37 0
+100 coojgxvjpn oelvks 12 9 0 18 16 0
+500 oelvks 0
+400 1 10 0
+200 rag 0
+300 lipylbk 0
+400 7 6 1 jbtjsgr qdpknzaesw
+500 lipylbk 0
+200 vjwoqs 0
+400 21 11 0
+300 oelvks 0
+200 xiqti 0
+300 299 299
+100 ivtwfz keehakbozv 4 4 0 148 148 1
+100 fyccu kfupwyhjd 150 152 1 1 1 0
+100 hwfhw kfupwyhjd 149 149 1 1 1 0
+100 tsbs kfupwyhjd 152 150 1 1 1 0
+100 pcofq kfupwyhjd 150 153 1 1 1 0
+100 ofudz kfupwyhjd 149 150 1 1 1 0
+100 gsbbwxnzz kfupwyhjd 153 152 1 1 1 0
+100 xk kfupwyhjd 152 153 1 1 1 0
+300 kfupwyhjd 0
+100 kexgsj kfupwyhjd 150 149 1 1 1 0
+100 fevvczy kfupwyhjd 151 151 1 1 1 0
+100 csuomdf kfupwyhjd 149 153 1 1 1 0
+100 pgebtxcqak kfupwyhjd 149 152 1 1 1 0
+100 rgeyzsf kfupwyhjd 152 150 1 1 1 0
+100 cysm kfupwyhjd 149 152 1 1 1 0
+100 sachkt wyufmy 20 240 1 278 36 1
+100 vkval kfupwyhjd 1 1 0 104 111 1
+100 awob kfupwyhjd 150 151 1 1 1 0
+100 jtyzql kfupwyhjd 150 152 1 1 1 0
+100 qthfrsqnkd kfupwyhjd 150 151 1 1 1 0
+100 eovob wyufmy 49 236 1 140 51 1
+500 wyufmy 16364
+100 af kfupwyhjd 151 150 1 1 1 0
+100 biiagya kfupwyhjd 150 149 1 1 1 0
+100 pblp kfupwyhjd 153 150 1 1 1 0
+100 zrvhz kfupwyhjd 151 150 1 1 1 0
+100 oah kfupwyhjd 150 150 1 1 1 0
+300 kfupwyhjd 1
+100 mrxnxkcsxz kfupwyhjd 149 153 1 1 1 0
+100 qswqbp kfupwyhjd 153 149 1 1 1 0
+100 pmwuchkvu wyufmy 209 42 1 33 126 1
+100 vstn kfupwyhjd 150 151 1 1 1 0
+100 ozgdbwequt kfupwyhjd 153 150 1 1 1 0
+100 xkm kfupwyhjd 1 1 0 115 279 1
+100 tgbj kfupwyhjd 150 151 1 1 1 0
+100 qqqxp kfupwyhjd 149 152 1 1 1 0
+100 zlgxbjisip kfupwyhjd 149 150 1 1 1 0
+100 tiohxpwaxu kfupwyhjd 152 151 1 1 1 0
+100 iqncfaohlv kfupwyhjd 153 153 1 1 1 0
+100 ut kfupwyhjd 150 149 1 1 1 0
+500 kfupwyhjd 1
+100 dqhrulbu kfupwyhjd 1 1 0 31 282 1
+100 fg kfupwyhjd 150 150 1 1 1 0
+100 yaihpjpvt kfupwyhjd 153 153 1 1 1 0
+100 flse kfupwyhjd 150 152 1 1 1 0
+100 adfdghykfn kfupwyhjd 150 151 1 1 1 0
+100 tis kfupwyhjd 152 152 1 1 1 0
+100 xbibrpk kfupwyhjd 149 153 1 1 1 0
+100 ubdi kfupwyhjd 153 150 1 1 1 0
+500 kfupwyhjd 2
+500 kfupwyhjd 2
+100 ymw kfupwyhjd 153 152 1 1 1 0
+100 gum kfupwyhjd 152 152 1 1 1 0
+100 barklji kfupwyhjd 152 151 1 1 1 0
+100 oelyr kfupwyhjd 151 152 1 1 1 0
+100 or kfupwyhjd 150 153 1 1 1 0
+100 asxprszo kfupwyhjd 149 152 1 1 1 0
+300 wyufmy 3
+100 hi kfupwyhjd 149 149 1 1 1 0
+100 scy kfupwyhjd 1 1 0 211 85 1
+100 yffdzz kfupwyhjd 151 150 1 1 1 0
+100 iqgo kfupwyhjd 152 153 1 1 1 0
+100 cvp kfupwyhjd 151 153 1 1 1 0
+100 juqvvkgo kfupwyhjd 150 151 1 1 1 0
+100 khyftidayu kfupwyhjd 149 153 1 1 1 0
+100 ephp kfupwyhjd 150 151 1 1 1 0
+100 sejdrsxds kfupwyhjd 151 149 1 1 1 0
+300 wyufmy 0
+100 lygj kfupwyhjd 1 1 0 135 49 1
+100 nbf kfupwyhjd 151 149 1 1 1 0
+100 xmcva kfupwyhjd 151 149 1 1 1 0
+100 hmhcie kfupwyhjd 152 152 1 1 1 0
+100 udrwjgbxl kfupwyhjd 152 150 1 1 1 0
+100 spzt kfupwyhjd 153 151 1 1 1 0
+100 fsemov kfupwyhjd 153 150 1 1 1 0
+100 uas kfupwyhjd 149 152 1 1 1 0
+300 kfupwyhjd 4
+100 lw kfupwyhjd 1 1 0 298 66 1
+100 fyatbxq kfupwyhjd 149 151 1 1 1 0
+100 gmjmwc kfupwyhjd 1 1 0 67 171 1
+100 aiuauo kfupwyhjd 149 152 1 1 1 0
+100 dxv kfupwyhjd 150 151 1 1 1 0
+100 sdcmns kfupwyhjd 151 152 1 1 1 0
+100 fcwudpwvf kfupwyhjd 151 150 1 1 1 0
+100 wlla kfupwyhjd 150 149 1 1 1 0
+500 kfupwyhjd 2
+100 dfdi kfupwyhjd 151 151 1 1 1 0
+300 wyufmy 0
+100 yxfunn kfupwyhjd 149 151 1 1 1 0
+300 kfupwyhjd 2
+100 ghiokqp kfupwyhjd 152 152 1 1 1 0
+100 uqprvfc kfupwyhjd 151 149 1 1 1 0
+100 lpv kfupwyhjd 152 149 1 1 1 0
+100 hnzrnqo kfupwyhjd 149 153 1 1 1 0
+100 cdeorvwnx kfupwyhjd 149 150 1 1 1 0
+100 lqbugi kfupwyhjd 153 150 1 1 1 0
+100 jelf kfupwyhjd 149 149 1 1 1 0
+100 sizxyhogq kfupwyhjd 150 153 1 1 1 0
+100 lkbnnbsk kfupwyhjd 149 149 1 1 1 0
+100 pevlayz kfupwyhjd 150 153 1 1 1 0
+300 wyufmy 0
+100 hkyr kfupwyhjd 151 153 1 1 1 0
+100 udgnihpgs kfupwyhjd 150 150 1 1 1 0
+100 udsfci kfupwyhjd 152 152 1 1 1 0
+100 yxxnahiz kfupwyhjd 151 151 1 1 1 0
+100 hg kfupwyhjd 149 151 1 1 1 0
+100 nl kfupwyhjd 152 150 1 1 1 0
+100 pprolj kfupwyhjd 150 152 1 1 1 0
+500 kfupwyhjd 0
+100 pklkt kfupwyhjd 150 151 1 1 1 0
+100 kk kfupwyhjd 150 152 1 1 1 0
+100 yhd kfupwyhjd 151 149 1 1 1 0
+100 rrdkiqzjkn kfupwyhjd 152 152 1 1 1 0
+100 srnf kfupwyhjd 153 152 1 1 1 0
+100 ahmnexofns kfupwyhjd 153 149 1 1 1 0
+100 rnglu wyufmy 197 133 1 125 77 1
+500 kfupwyhjd 0
+100 hb kfupwyhjd 153 151 1 1 1 0
+100 kqwovr kfupwyhjd 151 153 1 1 1 0
+100 omnadwsxu kfupwyhjd 150 149 1 1 1 0
+300 kfupwyhjd 0
+100 llqw kfupwyhjd 151 149 1 1 1 0
+100 ssvtblkwre kfupwyhjd 151 149 1 1 1 0
+100 dlurvoqguk kfupwyhjd 1 1 0 97 267 1
+300 wyufmy 1
+100 wltgzgd kfupwyhjd 149 149 1 1 1 0
+100 lflqjnh kfupwyhjd 152 150 1 1 1 0
+100 xtq kfupwyhjd 150 151 1 1 1 0
+100 rh kfupwyhjd 151 149 1 1 1 0
+100 yswkrzmz kfupwyhjd 152 150 1 1 1 0
+300 wyufmy 0
+100 tfwpkx kfupwyhjd 152 152 1 1 1 0
+100 dulfbojgpz kfupwyhjd 152 151 1 1 1 0
+100 ytlbwtd kfupwyhjd 153 150 1 1 1 0
+100 mxzarsv kfupwyhjd 150 152 1 1 1 0
+100 pamjihm kfupwyhjd 149 149 1 1 1 0
+100 altyny kfupwyhjd 149 149 1 1 1 0
+300 keehakbozv 1
+100 wk wyufmy 151 151 1 1 1 1
+100 bxji kfupwyhjd 152 153 1 1 1 0
+100 xlq wyufmy 125 134 1 271 208 1
+100 cotj kfupwyhjd 152 150 1 1 1 0
+100 zzc kfupwyhjd 153 152 1 1 1 0
+100 fpnzttkxis kfupwyhjd 152 151 1 1 1 0
+100 zpfno kfupwyhjd 1 1 0 228 181 1
+100 brirfj kfupwyhjd 151 151 1 1 1 0
+100 nmxgohj wyufmy 227 37 1 241 240 1
+100 zfwwgkqijp kfupwyhjd 153 149 1 1 1 0
+100 oadjb kfupwyhjd 150 152 1 1 1 0
+100 mhh kfupwyhjd 152 149 1 1 1 0
+100 dxov kfupwyhjd 153 150 1 1 1 0
+100 ca kfupwyhjd 148 150 1 1 1 0
+100 jzivqo kfupwyhjd 150 149 1 1 1 0
+100 qvtzljgx kfupwyhjd 1 1 0 225 265 1
+100 jpnovagjyp kfupwyhjd 1 1 0 40 294 1
+100 vcqjttq kfupwyhjd 153 149 1 1 1 0
+100 joxanflvu kfupwyhjd 148 152 1 1 1 0
+100 pofak kfupwyhjd 150 150 1 1 1 0
+100 nv kfupwyhjd 149 149 1 1 1 0
+100 yrgoy kfupwyhjd 149 152 1 1 1 0
+100 ibicf kfupwyhjd 151 150 1 1 1 0
+400 99 188 1 nmxgohj wyufmy
+500 wyufmy 47950
+100 jxmvphku kfupwyhjd 149 149 1 1 1 0
+400 205 224 0
+400 123 266 0
+400 220 68 1 xlq wyufmy
+400 267 63 1 xlq wyufmy
+100 fke kfupwyhjd 148 150 1 1 1 0
+100 skazxrfcmk kfupwyhjd 1 1 0 55 240 1
+100 ghpxymmew kfupwyhjd 1 1 0 138 279 1
+100 theuvga kfupwyhjd 151 151 1 1 1 0
+100 xpyhu kfupwyhjd 149 149 1 1 1 0
+100 zkbnahd kfupwyhjd 148 150 1 1 1 0
+400 221 122 1 xlq wyufmy
+100 gjfpncamg kfupwyhjd 150 150 1 1 1 0
+100 cgnruqqo kfupwyhjd 149 151 1 1 1 0
+100 awjxok kfupwyhjd 153 151 1 1 1 0
+100 nerm wyufmy 176 59 1 242 197 1
+300 wyufmy 4
+100 dgrfaxhcd keehakbozv 4 4 0 148 148 1
+100 uf kfupwyhjd 1 1 0 175 30 1
+300 wyufmy 0
+500 kfupwyhjd 7
+300 wyufmy 0
+100 gvdmaj kfupwyhjd 149 152 1 1 1 0
+400 141 220 0
+100 vteemtvq kfupwyhjd 151 148 1 1 1 0
+300 wyufmy 0
+100 kwswrc kfupwyhjd 151 148 1 1 1 0
+100 zzkfjsc kfupwyhjd 148 152 1 1 1 0
+100 mtsu kfupwyhjd 149 153 1 1 1 0
+300 kfupwyhjd 7
+100 urcpfr kfupwyhjd 151 149 1 1 1 0
+100 bu kfupwyhjd 152 153 1 1 1 0
+100 ibhaiymau kfupwyhjd 150 152 1 1 1 0
+100 hwxnmm kfupwyhjd 153 149 1 1 1 0
+100 ldaxmng wyufmy 268 52 1 87 56 1
+100 dzgqjuv kfupwyhjd 153 150 1 1 1 0
+100 yefpebshul kfupwyhjd 1 1 0 246 222 1
+300 wyufmy 1
+100 pnxaigyk kfupwyhjd 152 150 1 1 1 0
+100 uhmmgevgm kfupwyhjd 149 151 1 1 1 0
+400 245 273 0
+100 lovcavaz kfupwyhjd 152 151 1 1 1 0
+400 199 68 0
+100 cikvuu kfupwyhjd 153 149 1 1 1 0
+100 sjqfe kfupwyhjd 150 151 1 1 1 0
+100 egoq kfupwyhjd 149 151 1 1 1 0
+300 kfupwyhjd 1
+100 xo kfupwyhjd 1 1 0 185 257 1
+100 hwhfginds kfupwyhjd 150 152 1 1 1 0
+100 omqsgymh kfupwyhjd 152 153 1 1 1 0
+100 oidazzjjsc kfupwyhjd 152 152 1 1 1 0
+100 mofdqvisr kfupwyhjd 152 152 1 1 1 0
+100 ydpeneiae kfupwyhjd 152 149 1 1 1 0
+500 kfupwyhjd 1
+100 wsrwnxp kfupwyhjd 153 151 1 1 1 0
+100 btswkgbez kfupwyhjd 153 151 1 1 1 0
+100 suf kfupwyhjd 153 153 1 1 1 0
+100 bxhay wyufmy 16 6 1 129 276 1
+100 uc kfupwyhjd 151 151 1 1 1 0
+100 tqcmqagmd kfupwyhjd 152 150 1 1 1 0
+100 dgoegsp kfupwyhjd 152 152 1 1 1 0
+100 qtakzm kfupwyhjd 150 151 1 1 1 0
+100 ooifltdg kfupwyhjd 151 151 1 1 1 0
+100 xyklw kfupwyhjd 1 1 0 153 150 1
+100 dtyciwiulq kfupwyhjd 151 152 1 1 1 0
+100 cjy kfupwyhjd 151 152 1 1 1 0
+500 kfupwyhjd 2
+100 stksdymtga kfupwyhjd 150 152 1 1 1 0
+100 idwasgxwpl kfupwyhjd 149 149 1 1 1 0
+400 5 4 1 bxhay wyufmy
+400 47 148 0
+100 wlgk kfupwyhjd 151 150 1 1 1 0
+100 jbjx kfupwyhjd 149 149 1 1 1 0
+100 zovqnw kfupwyhjd 150 151 1 1 1 0
+100 dqkbaaoql kfupwyhjd 148 150 1 1 1 0
+300 kfupwyhjd 2
+100 lgpxkbzapn wyufmy 113 186 1 33 150 1
+100 hcldwjmv kfupwyhjd 149 150 1 1 1 0
+100 yt kfupwyhjd 153 152 1 1 1 0
+100 cfjgi kfupwyhjd 152 151 1 1 1 0
+100 wrolsiii kfupwyhjd 149 152 1 1 1 0
+300 kfupwyhjd 0
+100 yiluynn kfupwyhjd 151 152 1 1 1 0
+400 60 184 1 lgpxkbzapn wyufmy
+100 pctiy kfupwyhjd 153 151 1 1 1 0
+100 pomqmv kfupwyhjd 151 149 1 1 1 0
+400 32 113 1 lgpxkbzapn wyufmy
+300 kfupwyhjd 0
+100 up kfupwyhjd 151 153 1 1 1 0
+400 113 51 1 lgpxkbzapn wyufmy
+400 33 143 1 lgpxkbzapn wyufmy
+100 dftr kfupwyhjd 149 152 1 1 1 0
+300 kfupwyhjd 0
+500 kfupwyhjd 0
+100 bavvdalf kfupwyhjd 153 151 1 1 1 0
+100 br kfupwyhjd 149 152 1 1 1 0
+300 kfupwyhjd 0
+400 9 228 0
+100 mm kfupwyhjd 152 149 1 1 1 0
+100 vyisbzz kfupwyhjd 152 151 1 1 1 0
+100 cebidab kfupwyhjd 149 152 1 1 1 0
+100 wlpiweyijq kfupwyhjd 153 151 1 1 1 0
+300 wyufmy 2
+100 urwlcrsazd kfupwyhjd 153 149 1 1 1 0
+100 dayexs kfupwyhjd 150 153 1 1 1 0
+100 tlydwwq kfupwyhjd 153 151 1 1 1 0
+100 nyqhrtxv kfupwyhjd 1 1 0 120 208 1
+100 zozxzve kfupwyhjd 1 1 0 51 202 1
+100 hkcla kfupwyhjd 1 1 0 202 195 1
+100 hraxryxhjd kfupwyhjd 152 148 1 1 1 0
+100 jpmfq kfupwyhjd 150 151 1 1 1 0
+100 gzltscnbnt kfupwyhjd 149 152 1 1 1 0
+500 kfupwyhjd 3
+100 kzobin kfupwyhjd 149 149 1 1 1 0
+100 zhw kfupwyhjd 153 152 1 1 1 0
+100 wo wyufmy 224 113 1 240 12 1
+100 skyvey kfupwyhjd 150 149 1 1 1 0
+300 wyufmy 1
+100 crnkkeulp kfupwyhjd 151 150 1 1 1 0
+100 stxjurdsd kfupwyhjd 149 151 1 1 1 0
+100 xhxbwy kfupwyhjd 150 151 1 1 1 0
+100 rnnqr kfupwyhjd 151 149 1 1 1 0
+100 jpxphwdgkh kfupwyhjd 152 149 1 1 1 0
+100 nek wyufmy 131 153 1 191 124 1
+100 eqzqcruv kfupwyhjd 151 150 1 1 1 0
+100 hwyj kfupwyhjd 151 149 1 1 1 0
+100 evxexfumac kfupwyhjd 149 151 1 1 1 0
+100 irzq kfupwyhjd 151 149 1 1 1 0
+400 212 98 0
+100 hkbppeivea kfupwyhjd 1 1 0 268 14 1
+400 6 33 1 nek wyufmy
+400 121 46 1 nek wyufmy
+100 umi kfupwyhjd 150 153 1 1 1 0
+100 cqztac kfupwyhjd 1 1 0 282 45 1
+100 jkenfjrvj kfupwyhjd 149 151 1 1 1 0
+100 npeepmb kfupwyhjd 151 152 1 1 1 0
+100 yiihtyatr kfupwyhjd 152 151 1 1 1 0
+300 300 300
+100 ivtwfz zecaeq 5 6 0 296 295 1
+100 hfycc xwobaed 5 1 0 296 294 1
+100 oww xwobaed 1 6 0 295 295 1
+100 mbqdh iyxnnagda 162 192 1 163 198 1
+100 watsbsn ajte 289 49 1 276 201 1
+100 fqy gdq 29 170 1 12 3 1
+100 gc uwekvv 92 60 1 14 76 1
+100 prbxkhm vvnzcf 288 12 1 48 103 1
+100 uomd prsqadake 151 19 1 268 87 1
+100 tfrj iyxnnagda 22 34 1 157 48 1
+100 lmt iyxnnagda 131 16 1 27 137 1
+100 hfrsqn uwekvv 163 2 1 249 217 1
+100 yitjafjxs iyxnnagda 10 34 1 144 189 1
+100 cpmwuchkv uwekvv 40 15 1 18 177 1
+100 iiqq uwekvv 130 1 1 111 144 1
+100 grgydqhrul gdq 55 49 1 272 265 1
+100 ygfgheumne iyxnnagda 129 2 1 54 269 1
+100 rpkxspw ajte 282 15 1 274 43 1
+100 wjah prsqadake 91 11 1 161 99 1
+100 rbihifg iyxnnagda 117 10 1 266 17 1
+100 ffdzz uwekvv 10 111 1 79 229 1
+100 jfyephpah iyxnnagda 35 18 1 54 159 1
+100 udrwjgbxl micqlylekj 12 13 1 139 73 1
+100 xjfsemov vvnzcf 74 19 1 262 47 1
+100 vfyatbxqbk iyxnnagda 89 9 1 153 226 1
+100 wcboojai uwekvv 8 54 1 102 50 1
+100 tesghi uwekvv 4 11 1 192 49 1
+100 ylpvm uwekvv 111 6 1 234 232 1
+100 hizuyn iyxnnagda 129 9 1 292 34 1
+100 lywifpprol prsqadake 23 6 1 77 167 1
+100 qlflqjn jesag 247 1 1 290 192 1
+100 ocptmh gdq 22 12 1 198 81 1
+100 fivp uwekvv 27 4 1 260 177 1
+100 fghp vvnzcf 1 79 1 40 120 1
+100 kxtheuv ajte 2 131 1 223 2 1
+100 okvaw gdq 11 47 1 27 299 1
+100 suqjxag uwekvv 5 25 1 269 223 1
+100 gidhwx gdq 20 17 1 296 66 1
+100 zqpbx micqlylekj 29 12 1 41 34 1
+100 asg jesag 11 16 1 169 3 1
+100 gfzfhfe iyxnnagda 4 79 1 236 2 1
+100 lrs prsqadake 33 10 1 147 254 1
+100 dksfqwlp iyxnnagda 62 6 1 92 14 1
+100 epmbpz jesag 6 15 1 290 114 1
+100 nzcfmj ajte 41 10 1 64 236 1
+100 aifhmvgp ajte 4 3 1 245 28 1
+100 dmjdqngcqn vvnzcf 79 1 1 236 148 1
+100 ibdw prsqadake 2 27 1 180 54 1
+100 fbwijdzxjc micqlylekj 51 2 1 39 92 1
+100 epakcftah iyxnnagda 37 1 1 281 174 1
+100 avi micqlylekj 190 1 1 200 148 1
+100 rc prsqadake 119 1 1 292 42 1
+100 hi jesag 13 25 1 66 253 1
+100 iraesswnx micqlylekj 1 76 1 59 125 1
+100 zmyfugoar iyxnnagda 60 1 1 11 135 1
+100 rptre uwekvv 2 27 1 122 152 1
+100 nkihwgibin prsqadake 2 16 1 167 237 1
+100 qlwicxwjsw gdq 18 8 1 9 68 1
+100 gogjhs micqlylekj 58 1 1 21 57 1
+100 ak gdq 3 17 1 264 266 1
+100 cphukppqui iyxnnagda 6 24 1 19 267 1
+100 opvushkdib uwekvv 108 1 1 56 125 1
+100 zam iyxnnagda 51 3 1 262 177 1
+100 pbfti prsqadake 6 18 1 280 265 1
+100 bjc jesag 5 22 1 195 204 1
+100 it ajte 4 9 1 112 53 1
+100 gmizc jesag 26 4 1 146 233 1
+100 lv ajte 1 19 1 179 191 1
+100 gplkdvto ajte 7 3 1 229 127 1
+100 mv uwekvv 16 1 1 7 282 1
+100 tuy iyxnnagda 7 7 1 231 37 1
+100 sqltooi uwekvv 1 29 1 145 128 1
+100 ynh uwekvv 9 6 1 123 288 1
+100 hsrbh vvnzcf 2 9 1 80 183 1
+100 sc prsqadake 9 1 1 212 291 1
+100 vdwnnivq vvnzcf 3 11 1 173 274 1
+100 uyyi gdq 18 3 1 97 19 1
+100 rdr gdq 1 25 1 268 149 1
+100 rooymjh gdq 2 9 1 275 269 1
+100 xbbruquip iyxnnagda 3 18 1 16 217 1
+100 gknhsxgk iyxnnagda 28 1 1 122 14 1
+100 xke prsqadake 1 23 1 178 4 1
+100 btjsul vvnzcf 27 3 1 25 279 1
+100 snowxnhig gdq 17 2 1 110 224 1
+100 bmlvikje uwekvv 79 1 1 237 49 1
+100 mmuv prsqadake 1 10 1 268 282 1
+100 lgcg vvnzcf 4 5 1 41 68 1
+100 zjalgixpv prsqadake 6 2 1 78 236 1
+100 chkjsh prsqadake 2 10 1 255 297 1
+100 kdkopkbm prsqadake 6 9 1 222 216 1
+100 vpssyen uwekvv 44 1 1 210 18 1
+100 jkxlsdebdh uwekvv 1 20 1 197 40 1
+100 iyj uwekvv 74 1 1 89 238 1
+100 qxybl micqlylekj 27 1 1 275 291 1
+100 fdecqqa uwekvv 2 9 1 172 277 1
+100 zq ajte 25 1 1 272 122 1
+100 rr jesag 6 1 1 142 221 1
+100 csyacwomy prsqadake 11 1 1 42 287 1
+100 dhss jesag 3 7 1 30 231 1
+100 tta ajte 27 1 1 237 101 1
+100 evuodfzbny prsqadake 1 26 1 233 104 1
+100 nz micqlylekj 15 3 1 180 126 1
+100 jjbxeqq uwekvv 4 10 1 112 86 1
+100 tmsxtam prsqadake 3 9 1 72 286 1
+100 awjgia iyxnnagda 1 1 1 120 288 1
+100 rsxhqdeuk vvnzcf 7 1 1 42 12 1
+100 zlczbdvhz jesag 15 1 1 167 183 1
+100 hlksmctiom gdq 5 6 1 250 6 1
+100 dyjjokj vvnzcf 2 2 1 252 46 1
+100 rlw iyxnnagda 4 3 1 101 71 1
+100 dsdabokz micqlylekj 5 3 1 78 110 1
+100 nzujmlv prsqadake 1 2 1 56 16 1
+100 ktlsmqggs prsqadake 2 6 1 116 265 1
+100 ineefr prsqadake 3 12 1 163 251 1
+100 cwusbkkvos iyxnnagda 6 6 1 101 11 1
+300 zecaeq 1
+400 157 166 1 mbqdh iyxnnagda
+100 uqpmkjy zecaeq 5 6 1 1 1 1
+500 xwobaed 11
+300 zecaeq 1
+100 gwzwpojt zecaeq 5 6 1 1 1 1
+400 186 178 1 lmt iyxnnagda
+200 gwzwpojt 1
+400 101 137 1 mbqdh iyxnnagda
+100 fcy zecaeq 5 6 1 1 1 1
+300 zecaeq 1
+400 56 137 1 mbqdh iyxnnagda
+100 kp zecaeq 5 6 1 1 1 1
+400 87 58 1 mbqdh iyxnnagda
+200 kp 1
+100 ecubk zecaeq 5 6 1 1 1 1
+300 jesag 9
+100 ekf prsqadake 22 4 1 174 256 1
+100 df micqlylekj 126 1 1 167 149 1
+100 mx micqlylekj 74 1 1 78 279 1
+100 xrtettlw prsqadake 5 26 1 155 143 1
+100 pdf jesag 6 16 1 106 255 1
+100 koiemzm iyxnnagda 4 17 1 163 279 1
+100 vamdwpcsk iyxnnagda 5 7 1 74 255 1
+100 vedvrugmom prsqadake 43 1 1 167 41 1
+100 bnby gdq 15 1 1 32 299 1
+100 cqlxxod vvnzcf 6 7 1 294 10 1
+100 gr jesag 8 1 1 205 276 1
+100 klfzz gdq 1 29 1 47 67 1
+100 frm gdq 14 1 1 159 285 1
+100 ihtu iyxnnagda 6 13 1 192 10 1
+100 jdbzbq iyxnnagda 3 4 1 196 293 1
+100 ykrrjssn jesag 10 6 1 256 204 1
+100 ffq iyxnnagda 12 1 1 225 202 1
+100 zt micqlylekj 5 2 1 73 205 1
+100 dabzaplg micqlylekj 6 5 1 123 153 1
+100 hiuo jesag 1 21 1 145 248 1
+100 myvouhf vvnzcf 2 9 1 93 177 1
+100 fxpbcshypb micqlylekj 17 1 1 162 158 1
+100 zeahbxcc gdq 5 3 1 229 220 1
+100 lwqg micqlylekj 11 3 1 92 50 1
+100 gvosgq ajte 4 4 1 152 151 1
+100 ec jesag 7 4 1 63 250 1
+400 119 69 1 mbqdh iyxnnagda
+300 zecaeq 1
+100 faxazemwya zecaeq 5 6 1 1 1 1
+500 gdq 9175
+200 faxazemwya 1
+400 19 298 1 zam iyxnnagda
+100 ln zecaeq 5 6 1 1 1 1
+300 zecaeq 1
+500 vvnzcf 5243
+100 jvfwuprg zecaeq 5 6 1 1 1 1
+500 jesag 213
+200 jvfwuprg 1
+100 hgtmoduem zecaeq 5 6 1 1 1 1
+500 prsqadake 5154
+300 zecaeq 1
+500 uwekvv 9597
+100 ehyj zecaeq 5 6 1 1 1 1
+300 zecaeq 1
+400 293 25 1 yitjafjxs iyxnnagda
+100 aiy zecaeq 5 6 1 1 1 1
+400 133 98 1 mbqdh iyxnnagda
+200 aiy 1
+100 iji zecaeq 5 6 1 1 1 1
+300 jesag 5
+100 uwec micqlylekj 5 1 1 167 126 1
+100 uu prsqadake 9 3 1 162 164 1
+100 xzl ajte 10 1 1 48 200 1
+100 tyriq ajte 5 3 1 220 18 1
+100 woscbq micqlylekj 1 28 1 270 88 1
+100 pdimmik micqlylekj 5 4 1 7 189 1
+100 sbccjrnqd uwekvv 16 2 1 94 255 1
+100 ijmcyqdrc uwekvv 1 9 1 101 158 1
+100 dteclam jesag 5 5 1 25 299 1
+400 156 65 1 mbqdh iyxnnagda
+200 iji 1
+500 jesag 25
+100 bbhkt zecaeq 5 6 1 1 1 1
+300 zecaeq 1
+400 41 72 1 mbqdh iyxnnagda
+100 cobvvjv zecaeq 5 6 1 1 1 1
+400 292 3 1 yitjafjxs iyxnnagda
+200 cobvvjv 1
+100 wykau zecaeq 5 6 1 1 1 1
+500 xwobaed 11
+200 wykau 1
+400 295 39 1 gfzfhfe iyxnnagda
+100 lagfn zecaeq 5 6 1 1 1 1
+200 lagfn 1
+500 zecaeq 0
+100 bkzcgdfel zecaeq 5 6 1 1 1 1
+400 127 36 1 mbqdh iyxnnagda
+200 bkzcgdfel 1
+100 xcsgpuyxfw zecaeq 5 6 1 1 1 1
+400 201 123 1 gidhwx gdq
+300 zecaeq 1
+400 115 76 1 mbqdh iyxnnagda
+100 jjy zecaeq 5 6 1 1 1 1
+300 zecaeq 1
+500 prsqadake 5181
+100 esmxon zecaeq 5 6 1 1 1 1
+400 187 115 1 fqy gdq
+200 esmxon 1
+100 dlfz zecaeq 5 6 1 1 1 1
+500 vvnzcf 5243
+300 zecaeq 1
+400 69 46 1 mbqdh iyxnnagda
+100 rcmihex zecaeq 5 6 1 1 1 1
+200 rcmihex 1
+500 zecaeq 0
+100 ojzxe zecaeq 5 6 1 1 1 1
+400 136 29 1 mbqdh iyxnnagda
+300 zecaeq 1
+100 rodwojzzof zecaeq 5 6 1 1 1 1
+500 xwobaed 11
+200 rodwojzzof 1
+400 167 45 1 fqy gdq
+100 hjobq zecaeq 5 6 1 1 1 1
+300 zecaeq 1
+500 jesag 25
+100 liygqllbh zecaeq 5 6 1 1 1 1
+400 138 4 1 mbqdh iyxnnagda
+200 liygqllbh 1
+100 opdus zecaeq 5 6 1 1 1 1
+400 23 146 1 mbqdh iyxnnagda
+200 opdus 1
+400 182 264 1 vfyatbxqbk iyxnnagda
+100 iqnekzncu zecaeq 5 6 1 1 1 1
+300 zecaeq 1
+500 prsqadake 5181
+100 ukma zecaeq 5 6 1 1 1 1
+500 prsqadake 5181
+200 ukma 1
+100 qfdqjemdq zecaeq 5 6 1 1 1 1
+400 144 166 1 mbqdh iyxnnagda
+300 zecaeq 1
+400 176 103 1 fqy gdq
+100 waiszzax zecaeq 5 6 1 1 1 1
+200 waiszzax 1
+400 66 45 1 mbqdh iyxnnagda
+100 guy zecaeq 5 6 1 1 1 1
+500 micqlylekj 1360
+200 guy 1
+100 xnhgegpxr zecaeq 5 6 1 1 1 1
+300 prsqadake 24
+100 mb iyxnnagda 62 8 1 223 57 1
+100 gsjafhrbc uwekvv 142 9 1 151 275 1
+100 iuwwxnr ajte 23 10 1 262 21 1
+100 itghrlqgm iyxnnagda 82 9 1 76 217 1
+100 vo gdq 5 12 1 17 146 1
+100 rmlby jesag 122 1 1 52 53 1
+100 edaakgppn ajte 3 5 1 218 220 1
+100 nm micqlylekj 55 10 1 296 295 1
+100 skhxd ajte 16 6 1 216 169 1
+100 dekq gdq 20 9 1 256 208 1
+100 oals ajte 29 1 1 63 97 1
+100 gkdbotwbhp vvnzcf 1 12 1 55 160 1
+100 haxbni ajte 1 22 1 148 145 1
+100 izliqouly jesag 78 1 1 213 60 1
+100 uimhcsmqmh ajte 28 2 1 156 257 1
+100 aad jesag 6 17 1 91 144 1
+100 xnwoz ajte 4 6 1 77 23 1
+100 vmxfo jesag 1 27 1 27 184 1
+100 iixtatcw iyxnnagda 11 10 1 71 145 1
+100 fnvusuka ajte 7 12 1 44 256 1
+100 faggspbsg ajte 3 6 1 102 96 1
+100 pbij iyxnnagda 20 6 1 99 69 1
+100 dxjaxdovv micqlylekj 3 19 1 209 75 1
+100 wwburpn jesag 7 4 1 178 46 1
+100 tbywnvulc jesag 45 1 1 57 212 1
+100 axcxiwbdc ajte 33 1 1 8 71 1
+100 dirnvqxvw prsqadake 2 17 1 198 20 1
+100 jvxuh iyxnnagda 1 28 1 142 74 1
+100 vgorfig gdq 2 17 1 278 54 1
+100 uydqnnl ajte 3 1 1 115 178 1
+100 ipmslg uwekvv 1 21 1 273 155 1
+100 ahvye micqlylekj 7 1 1 152 35 1
+100 kpvktk vvnzcf 13 4 1 154 187 1
+100 ggxvmypcek gdq 23 1 1 296 267 1
+100 lwlxadum prsqadake 2 1 1 11 270 1
+100 jsxfz iyxnnagda 7 9 1 125 162 1
+500 xwobaed 11
+300 zecaeq 1
+100 100 100
+100 bzjvjfih duhxsvxdyx 34 41 1 36 31 1
+100 jtej kwzqwifa 45 24 1 43 84 1
+100 jkekvctk tsnerq 1 26 0 11 37 0
+100 smjfadqb kwzqwifa 7 20 0 49 58 1
+100 tfzbiifbre biyf 67 2 1 3 89 1
+100 syivflw ica 62 2 1 60 47 1
+100 cflvinak ij 20 46 1 30 9 1
+100 vpbmw ij 52 77 1 13 96 0
+100 wfesbdi ica 34 76 1 65 74 0
+100 gnqs biyf 18 43 1 70 90 1
+100 qmish gxa 10 40 0 78 60 0
+100 dzq ij 5 66 0 4 88 0
+100 vakyki gxa 9 7 0 79 4 0
+100 ujiajsct zxdyfruep 45 84 1 87 64 0
+100 fyr ij 25 16 0 28 38 0
+100 ajahrxsjj cr 46 30 1 8 1 0
+100 ozbw ij 50 90 1 15 52 0
+100 itghai kwzqwifa 66 9 1 65 1 1
+100 nl blmwzj 70 76 1 20 94 0
+100 xrppgekmkg ij 23 15 0 50 35 0
+100 fvdmbax blmwzj 38 49 1 28 8 0
+100 blav blmwzj 34 32 1 10 12 0
+100 rpcyjlz cr 53 20 0 39 90 0
+400 50 8 1 jtej kwzqwifa
+100 fulsivctr kwzqwifa 43 86 1 6 69 0
+100 jg duhxsvxdyx 96 48 0 70 97 0
+100 ftaibmlalt biyf 23 44 0 10 53 0
+100 ok blmwzj 53 16 1 100 78 0
+100 txazf tsnerq 60 41 1 14 86 0
+100 gzgeipddgl tsnerq 8 74 1 36 63 1
+400 37 24 1 jtej kwzqwifa
+100 rbuw cr 25 13 0 48 29 0
+100 slaxrui biyf 47 97 1 64 46 0
+100 qdynimkhsx gxa 40 42 1 94 47 0
+400 4 3 1 bzjvjfih duhxsvxdyx
+100 lp kwzqwifa 61 70 1 3 37 0
+100 cz tsnerq 60 28 1 26 6 0
+100 mot kwzqwifa 66 70 1 36 76 0
+100 msmni kwzqwifa 32 80 1 76 64 0
+100 bfdrzgzw blmwzj 50 75 0 61 72 0
+100 utnar zxdyfruep 32 53 0 87 44 0
+100 bbek ica 98 97 1 41 70 0
+400 38 76 0
+100 jtuflvd gxa 27 41 1 83 24 0
+100 tfwhmwow kwzqwifa 52 8 1 46 21 1
+400 55 38 0
+100 tqw gxa 6 83 1 95 70 0
+100 ngcmzullid biyf 14 83 0 40 9 0
+400 2 53 1 gnqs biyf
+100 zmjtcc gxa 58 97 1 62 91 0
+100 htgcwddrm biyf 48 71 1 51 89 0
+100 opktfdg biyf 65 23 1 78 99 0
+400 30 51 0
+100 zjnsq biyf 35 70 1 47 12 0
+100 nnt cr 47 90 0 37 30 0
+400 42 84 1 itghai kwzqwifa
+100 bsuzhbmr biyf 44 14 1 89 61 1
+100 yqdkizq ij 3 75 1 60 92 1
+100 krorkuzihs gxa 11 14 0 8 4 0
+100 prqklmdrkr biyf 88 87 0 74 39 0
+100 qavzjj ica 4 92 1 35 44 0
+300 cr 0
+100 eq cr 6 93 0 36 93 0
+100 vb cr 25 44 1 12 62 0
+100 zsvlprdevx tsnerq 66 84 1 63 7 0
+100 nwca ica 66 81 0 75 51 0
+100 gdgj gxa 57 58 0 61 66 0
+100 afnjqhq gxa 100 60 0 94 46 0
+400 7 4 1 bzjvjfih duhxsvxdyx
+100 kmzbqq ica 25 5 1 8 25 1
+300 zxdyfruep 0
+100 zrkabyuy duhxsvxdyx 4 94 0 86 84 0
+400 12 80 1 gnqs biyf
+100 xu blmwzj 8 69 1 16 96 0
+400 77 31 1 cflvinak ij
+100 ex blmwzj 80 83 0 9 78 0
+100 sgybvs cr 58 53 0 83 75 0
+100 cvclh gxa 10 64 1 9 35 0
+400 97 79 0
+100 xftdnar zxdyfruep 60 46 1 34 60 0
+100 yn blmwzj 39 20 1 99 44 0
+200 jquchpdp 0
+400 19 62 0
+100 mtb duhxsvxdyx 61 85 0 39 96 0
+100 jxxjxc ica 87 52 1 89 21 0
+100 rsvg ica 55 8 1 39 67 0
+100 gtvaywt zxdyfruep 69 16 1 24 27 0
+200 dlzrjxsouy 0
+100 ny tsnerq 91 89 0 98 18 0
+100 es duhxsvxdyx 70 98 1 77 71 0
+100 eiifpyfhds zxdyfruep 43 92 0 24 38 0
+100 lsgjguuzp kwzqwifa 93 1 1 50 79 0
+100 tugdkfsv ij 88 94 1 63 31 0
+100 ppbrpwp blmwzj 96 67 1 97 2 0
+100 oj blmwzj 50 66 0 2 14 0
+100 arjzh duhxsvxdyx 98 71 1 84 65 0
+400 63 18 1 jtej kwzqwifa
+100 qginxk kwzqwifa 51 47 0 24 8 0
+100 wfyv zxdyfruep 72 96 1 98 61 0
+100 rtdy biyf 26 52 1 60 59 0
+199 100 100
+100 ngpwtxoor ld 91 29 0 98 29 0
+100 rvshc crekqzwz 77 69 1 74 35 1
+100 qavtkucn gfvbhjwm 95 25 1 59 14 1
+100 ysqofgjqe gfvbhjwm 10 93 1 99 16 0
+100 mtsfevnwi ydpoylecf 16 94 1 43 35 0
+100 meas vmuv 52 1 0 32 18 0
+100 gjnmhkhpc vmuv 12 25 1 31 65 1
+100 xclckg iyz 94 12 0 12 86 0
+100 vnkfvmd vmuv 9 6 1 39 34 1
+100 xsokrserst tomqrzrrp 53 85 1 86 20 0
+300 slheea 0
+500 vmuv 354
+100 iy ktholepvlu 83 20 0 31 1 0
+500 pgemtelfzp 0
+400 16 49 1 rvshc crekqzwz
+400 5 27 1 rvshc crekqzwz
+500 zwoa 0
+400 15 46 1 rvshc crekqzwz
+100 vafwumkp vmuv 85 64 0 58 92 0
+400 11 15 1 rvshc crekqzwz
+300 tomqrzrrp 0
+100 xra ysy 98 73 1 56 96 0
+100 ssuwx pgemtelfzp 43 23 0 77 53 0
+100 ybbxhmuci yabfo 37 68 0 33 97 0
+100 zxivzviura tomqrzrrp 28 37 1 48 46 0
+100 fbltgmgcgi jglxaqhsu 50 22 1 42 69 0
+500 zwoa 0
+500 opgqrbwse 0
+100 dkaqvfmm pgemtelfzp 63 17 1 82 67 0
+300 slheea 0
+100 jvka yfdjlcz 14 18 1 8 13 1
+500 secxhchmi 0
+300 yfdjlcz 1
+200 srqvjbjy 0
+400 71 78 1 qavtkucn gfvbhjwm
+400 14 46 1 rvshc crekqzwz
+500 ld 0
+500 abtjtsru 0
+100 fub gfvbhjwm 51 32 0 58 42 0
+300 sjlomaztrv 0
+400 89 90 1 qavtkucn gfvbhjwm
+100 pym fcasewlqgw 26 40 1 52 7 0
+300 ktholepvlu 0
+100 rdxgjg crekqzwz 70 81 1 39 84 0
+200 vnkfvmd 1
+100 gjmimpi xwzoat 28 21 0 48 74 0
+400 97 33 0
+300 vmuv 1
+400 100 90 0
+100 mdimzetpd tfbk 29 31 0 69 45 0
+400 86 99 0
+100 evuulohd tomqrzrrp 73 45 1 9 5 0
+100 nlknkd yfdjlcz 90 61 1 93 77 0
+500 ysy 0
+100 hdji gfvbhjwm 19 98 1 33 33 0
+300 secxhchmi 0
+500 vwcjzjimcd 0
+100 slwz pb 13 25 1 21 60 1
+500 tfbk 0
+100 rueh sjlomaztrv 89 15 0 46 61 0
+300 ktholepvlu 0
+100 yxdqadib ld 90 98 0 24 94 0
+100 jtoygv yfdjlcz 45 68 1 24 36 0
+100 jnfmbyxe yfdjlcz 2 53 0 51 37 0
+400 92 58 0
+500 vmuv 0
+400 7 92 1 qavtkucn gfvbhjwm
+200 gjnmhkhpc 0
+300 fcasewlqgw 0
+100 iyoananzof yfdjlcz 45 68 0 18 38 0
+500 retkt 0
+400 32 80 1 qavtkucn gfvbhjwm
+500 fcasewlqgw 0
+300 ydpoylecf 0
+100 tea crekqzwz 80 13 0 56 54 0
+100 occi tgzffs 58 61 1 54 6 0
+500 iyz 0
+100 tvwycxz vmuv 9 32 1 18 20 1
+100 hvcpvaq slheea 51 41 1 77 96 0
+200 gizy 0
+100 pkkh ld 28 37 0 54 78 0
+400 23 94 1 qavtkucn gfvbhjwm
+400 61 39 1 rvshc crekqzwz
+500 ld 0
+200 oceojiwtgo 0
+200 thz 0
+300 crekqzwz 1
+400 72 6 0
+100 agcovziy xvnrizrq 49 47 0 93 97 0
+400 3 50 0
+400 4 77 1 qavtkucn gfvbhjwm
+500 tgzffs 0
+500 pgemtelfzp 0
+200 asebprbptt 0
+400 17 64 0
+100 zikulojuhp xwzoat 38 11 1 98 5 1
+100 hrovseu zwoa 17 95 1 44 89 0
+100 iyv abtjtsru 37 70 0 91 8 0
+100 dankolkpze crekqzwz 99 29 0 94 44 0
+100 oowsuctst sjlomaztrv 28 11 0 87 43 0
+500 iyz 0
+500 ld 0
+100 nfykvrakdp ydpoylecf 44 98 0 37 13 0
+400 28 39 0
+500 tgzffs 0
+300 dpxqdeq 0
+200 rdxgjg 0
+100 nhlp abtjtsru 20 78 1 36 67 0
+500 fcasewlqgw 0
+400 94 52 0
+400 26 43 0
+400 86 65 0
+400 73 43 0
+400 27 66 0
+100 xyezf yfdjlcz 72 3 1 94 66 1
+400 13 22 0
+500 eiqshwvyws 0
+300 abtjtsru 0
+400 61 3 0
+100 ftcnbt gfvbhjwm 77 56 0 18 96 0
+400 78 13 1 slwz pb
+500 ysy 0
+100 fm vmuv 91 65 0 70 73 0
+300 vmuv 1
+500 dpxqdeq 0
+200 ybbxhmuci 0
+400 50 30 0
+100 hjnx ld 38 37 0 33 79 0
+100 faizqxqf jglxaqhsu 15 23 0 2 65 0
+300 yabfo 0
+200 bbptp 0
+300 vmuv 0
+200 rd 0
+500 slheea 0
+300 ld 0
+500 xwzoat 418
+100 lci vwcjzjimcd 100 94 0 77 23 0
+200 nlknkd 0
+400 58 21 0
+400 12 77 1 qavtkucn gfvbhjwm
+100 jxzobmbvv ld 68 93 0 51 63 0
+400 97 7 0
+200 kby 0
+200 nhlp 0
+500 zwoa 0
+200 xclckg 0
+400 3 16 0
+300 dpxqdeq 0
+300 zwoa 0
+500 ydpoylecf 0
+500 yabfo 0
+500 tomqrzrrp 0
+200 qcxfxswf 0
+200 rueh 0
+500 crekqzwz 0
+100 vyqagllwv zwoa 14 58 1 66 71 0
+500 retkt 0
+500 tfbk 0
+500 xvnrizrq 0
+100 iwp yfdjlcz 45 70 1 91 51 0
+100 nuqutd pb 31 61 0 46 80 0
+100 veek eiqshwvyws 61 60 1 1 21 0
+100 iw opgqrbwse 52 14 0 84 59 0
+300 zwoa 0
+400 54 36 0
+400 86 58 0
+500 vwcjzjimcd 0
+400 61 91 1 qavtkucn gfvbhjwm
+100 pisckpznx retkt 98 27 0 31 79 0
+400 63 37 0
+100 oxashkc gfvbhjwm 21 27 0 18 62 0
+400 67 64 0
+300 opgqrbwse 0
+400 19 12 1 xyezf yfdjlcz
+500 xwzoat 418
+100 xo crekqzwz 40 100 0 9 37 0
+500 crekqzwz 0
+400 57 22 0
+400 88 68 0
+400 2 14 1 xyezf yfdjlcz
+500 yabfo 0
+400 79 66 0
+100 rmeo secxhchmi 9 75 0 68 66 0
+100 dmuzfxlmu abtjtsru 66 11 0 63 38 0
+200 ivxtopn 0
+100 ghhci ktholepvlu 51 7 0 36 21 0
+100 aqj dtoaike 96 22 1 65 9 1
+100 xvrlbfppqx xwzoat 7 37 1 18 8 0
+100 imst pb 19 41 0 22 88 0
+100 sqejliwe ktholepvlu 75 44 1 94 48 0
+400 65 67 0
+400 44 62 0
+200 xfdwuw 0
+100 mcnktik gfvbhjwm 89 100 0 12 87 0
+200 jtoygv 0
+100 vbj abtjtsru 10 19 1 9 53 1
+100 fqegg crekqzwz 100 82 0 51 92 0
+100 kptc xvnrizrq 62 66 0 23 65 0
+200 mtsfevnwi 0
+100 100 100
+100 ip zlyhlxkm 60 24 0 7 61 1
+100 dcsxewquqn ps 98 85 0 78 54 0
+100 skz wnsizxthwq 49 86 1 54 42 0
+100 xcx grpcqhu 73 93 1 99 81 0
+100 qdmma mdmzigeoic 81 47 1 88 66 1
+100 cuwiq gjhxmbxr 5 16 0 58 70 0
+100 qxveg gekuykhejp 69 37 0 92 13 0
+100 vgfakdobt esgnunwzyc 62 1 1 100 50 1
+100 wxtebehho gngkxsly 27 54 1 85 85 0
+100 dpfjwzbmc usqquxcho 7 2 0 49 38 0
+300 na 0
+500 rv 0
+200 ruqqpmmfu 0
+400 48 29 1 qdmma mdmzigeoic
+400 22 38 1 qdmma mdmzigeoic
+500 hmlpqq 0
+400 27 95 0
+100 jdxae rv 95 46 1 75 48 0
+100 vsbgtau dnp 89 55 1 70 85 0
+300 vmvjiju 0
+300 opinl 0
+100 ductxhwpgr hfsh 59 37 1 6 98 0
+100 rxjtqngpt uqdamkuq 32 5 0 39 35 0
+500 osicydirrr 0
+400 94 94 0
+100 akkfr yoztuq 70 67 0 13 8 0
+200 yxgn 0
+400 35 80 1 ip zlyhlxkm
+500 zhndhiueh 0
+500 pndizbhew 0
+100 yqavrtflzm snqsssuv 30 42 1 15 4 1
+300 ppndifx 0
+300 lr 0
+400 40 51 0
+100 zdagwqjkwm viwzeicwe 6 96 0 17 85 0
+300 fufvgc 0
+400 86 6 0
+500 fbz 0
+500 cemhhpcs 0
+500 ohbk 0
+200 dcsxewquqn 0
+100 ciw boujv 77 21 1 88 30 0
+300 viwzeicwe 0
+500 rqnsmojcyl 0
+100 vlhnwiwn uqdamkuq 93 33 0 52 23 0
+500 ynqlh 0
+400 87 83 1 yqavrtflzm snqsssuv
+200 ykhmco 0
+200 jbsnm 0
+500 ks 0
+100 mwh adogpah 25 32 1 36 16 0
+400 43 10 1 qdmma mdmzigeoic
+100 af bgct 84 79 0 83 5 0
+500 pndizbhew 0
+500 inazszsspf 0
+500 pbxehp 0
+500 htbxlbsonv 0
+400 27 34 1 qdmma mdmzigeoic
+500 gekuykhejp 0
+400 58 35 1 qdmma mdmzigeoic
+400 7 82 1 ip zlyhlxkm
+300 hptysy 0
+500 slyzmyfs 0
+400 32 74 1 ip zlyhlxkm
+100 ddczu gufky 80 31 1 67 7 0
+300 usqquxcho 0
+100 vzkvts wflzft 100 51 1 44 56 0
+400 4 84 0
+400 46 70 1 ip zlyhlxkm
+500 slyzmyfs 0
+100 chq gxrhvt 88 14 0 63 17 0
+200 xcx 0
+400 21 55 0
+200 oed 0
+200 chq 0
+500 cbpl 0
+500 mdmzigeoic 3807
+400 19 100 0
+200 ciw 0
+400 48 45 1 qdmma mdmzigeoic
+200 cl 0
+400 34 41 1 qdmma mdmzigeoic
+500 ppndifx 0
+400 35 54 0
+400 92 7 0
+100 xlufqw htbxlbsonv 65 19 1 82 21 0
+200 ksbxxac 0
+100 wb iemku 85 11 0 77 59 0
+100 mcsjl pm 20 88 1 78 27 0
+200 gwe 0
+100 dzvve ndpcimw 47 100 0 73 31 0
+300 jcjuvidssl 0
+100 nyvaunq pndizbhew 36 61 0 53 99 0
+100 gwgceauth gzfhiylgrs 42 67 0 82 44 0
+300 rv 0
+100 yxlvfv kiesd 76 83 1 70 43 0
+400 8 67 1 ip zlyhlxkm
+100 gxnir gl 2 22 0 64 29 0
+400 49 23 1 qdmma mdmzigeoic
+200 pqep 0
+300 295 279
+100 qhsmcnyxl ywm 5 6 0 291 274 1
+100 oxih uma 5 1 0 291 273 1
+100 ac uma 1 6 0 290 274 1
+100 dwmqkcwze tcsea 125 27 1 171 143 1
+100 bjsrny agrzenh 61 181 1 56 110 1
+100 guuiwda dxzyix 13 169 1 86 89 1
+100 kjqffbn nflxfuiwhx 109 238 1 292 233 1
+100 aejzlwu hbi 43 110 1 223 72 1
+100 ph dxzyix 23 85 1 77 25 1
+100 hixk dxzyix 173 2 1 25 196 1
+100 brebdoeklp sbk 179 56 1 130 125 1
+100 ay cdilo 10 40 1 177 230 1
+100 cdwldpza tcsea 48 29 1 30 214 1
+100 ropjtc gc 148 16 1 220 118 1
+100 jfkjulp sbk 1 169 1 286 161 1
+100 plvyv dxzyix 1 36 1 216 51 1
+100 qzro hbi 91 47 1 41 253 1
+100 kdomn tcsea 284 6 1 233 229 1
+100 dybq hbi 124 6 1 15 144 1
+100 unhqvf dxzyix 11 35 1 180 174 1
+100 ldxfexcgt tcsea 73 17 1 254 150 1
+100 xtjul jkjpq 19 10 1 240 151 1
+100 tfvuvuvu dxzyix 16 54 1 156 209 1
+100 mcr nflxfuiwhx 184 4 1 73 102 1
+100 rr agrzenh 267 5 1 90 109 1
+100 oakh jkjpq 245 2 1 269 214 1
+100 olmyrqvt tcsea 2 183 1 215 70 1
+100 hzyqfwjdn sbk 13 86 1 189 273 1
+100 jkgg fmquof 87 3 1 174 74 1
+100 mn cdilo 52 5 1 125 21 1
+100 nqghej agrzenh 20 4 1 49 126 1
+100 om hbi 20 8 1 148 246 1
+100 tzpm hbi 10 11 1 66 135 1
+100 ryhjaoyeo tcsea 2 179 1 263 23 1
+100 xrrpatjfxp fmquof 170 1 1 125 114 1
+100 vppvtp cdilo 7 28 1 105 15 1
+100 hfbr fmquof 28 13 1 115 23 1
+100 zptx dxzyix 5 36 1 30 47 1
+100 jzketqwwos agrzenh 20 3 1 274 86 1
+100 jjkjisd fllynlrm 94 1 1 122 234 1
+100 uy fllynlrm 4 37 1 3 256 1
+100 npecyzd agrzenh 2 8 1 234 179 1
+100 niqtrv sbk 3 87 1 233 268 1
+100 loalayjoi dxzyix 12 10 1 140 125 1
+100 hgg hbi 3 42 1 110 147 1
+100 jxdzbuwrkv nflxfuiwhx 5 12 1 235 215 1
+100 sntrat cdilo 4 5 1 51 51 1
+100 mwallxazcg gc 25 4 1 269 267 1
+100 skdhyjt gc 13 6 1 244 42 1
+100 mzz tcsea 2 24 1 207 8 1
+100 rkrim fllynlrm 18 5 1 179 221 1
+100 huvzdbqipe tsnzlbq 16 8 1 96 139 1
+100 zcmpk sbk 2 21 1 208 119 1
+100 kfvlx dxzyix 14 4 1 60 28 1
+100 qaypeo nflxfuiwhx 10 4 1 36 6 1
+100 jehnjxiu gc 19 3 1 119 246 1
+100 rkoovaciv sbk 21 2 1 246 235 1
+100 ubzg agrzenh 25 3 1 162 78 1
+100 anah tcsea 2 10 1 268 209 1
+100 yhqsddtcp jkjpq 2 13 1 195 22 1
+100 rockudfl sbk 4 1 1 21 200 1
+100 wubxhjkokv fllynlrm 8 9 1 9 268 1
+100 cjnkdtswdm dxzyix 1 3 1 140 76 1
+100 yfyktomh hbi 22 1 1 203 55 1
+100 qkntyu agrzenh 1 27 1 135 176 1
+100 hzfkjbazf jkjpq 3 12 1 9 89 1
+100 qdxixiagn tcsea 22 2 1 165 246 1
+100 tlejmq dxzyix 14 3 1 102 91 1
+100 qq hbi 8 7 1 35 5 1
+100 hidiyr gc 2 18 1 98 90 1
+100 bowo jkjpq 10 4 1 257 173 1
+100 xeojkaiy hbi 25 1 1 56 90 1
+100 oedrsrcooz hbi 6 3 1 37 241 1
+100 aepidzwbx nflxfuiwhx 2 6 1 143 87 1
+100 qddy tcsea 5 4 1 270 143 1
+100 kfgvg agrzenh 15 2 1 160 276 1
+100 bxrizsa agrzenh 3 5 1 215 45 1
+100 tc nflxfuiwhx 1 1 1 43 94 1
+100 ihqcehue fllynlrm 8 3 1 164 69 1
+100 touc dxzyix 23 1 1 282 128 1
+100 oco tsnzlbq 7 5 1 113 186 1
+100 mhwnvyfhrw tcsea 4 6 1 126 85 1
+400 246 31 1 ph dxzyix
+200 qhsmcnyxl 1
+400 273 260 1 mn cdilo
+100 mplmbidbe ywm 5 6 1 1 1 1
+500 dxzyix 6207
+200 mplmbidbe 1
+500 agrzenh 12679
+100 kdhdei ywm 5 6 1 1 1 1
+300 ywm 1
+500 agrzenh 12679
+100 aorsz ywm 5 6 1 1 1 1
+400 260 257 1 mn cdilo
+300 ywm 1
+100 gaedofpej ywm 5 6 1 1 1 1
+400 196 10 1 guuiwda dxzyix
+200 gaedofpej 1
+400 194 117 1 guuiwda dxzyix
+100 yvk ywm 5 6 1 1 1 1
+200 yvk 1
+400 244 63 1 ph dxzyix
+100 ngwwafo ywm 5 6 1 1 1 1
+500 hbi 10268
+300 ywm 1
+100 wv ywm 5 6 1 1 1 1
+400 192 77 1 guuiwda dxzyix
+200 wv 1
+400 197 58 1 guuiwda dxzyix
+100 oiaafdjxgc ywm 5 6 1 1 1 1
+300 ywm 1
+400 197 15 1 guuiwda dxzyix
+100 ljrcr ywm 5 6 1 1 1 1
+500 hbi 10268
+300 ywm 1
+100 zyjjjoztg ywm 5 6 1 1 1 1
+400 257 66 1 ph dxzyix
+300 ywm 1
+400 228 183 1 hixk dxzyix
+100 zxjwz ywm 5 6 1 1 1 1
+300 ywm 1
+500 hbi 10268
+100 dsqywhtfs ywm 5 6 1 1 1 1
+400 188 95 1 guuiwda dxzyix
+200 dsqywhtfs 1
+100 sw ywm 5 6 1 1 1 1
+500 hbi 10268
+300 ywm 1
+500 fllynlrm 428
+100 pxhwea ywm 5 6 1 1 1 1
+300 ywm 1
+500 nflxfuiwhx 26791
+100 vnahvzxhhm ywm 5 6 1 1 1 1
+500 jkjpq 782
+300 ywm 1
+100 by ywm 5 6 1 1 1 1
+500 fllynlrm 428
+300 ywm 1
+400 113 64 1 tfvuvuvu dxzyix
+100 ap ywm 5 6 1 1 1 1
+200 ap 1
+500 gc 2639
+100 izbgt ywm 5 6 1 1 1 1
+400 284 164 1 loalayjoi dxzyix
+200 izbgt 1
+100 kvzuza ywm 5 6 1 1 1 1
+500 gc 2639
+200 kvzuza 1
+500 uma 11
+100 uzcf ywm 5 6 1 1 1 1
+200 uzcf 1
+500 agrzenh 12679
+100 bykytz ywm 5 6 1 1 1 1
+500 cdilo 876
+300 ywm 1
+100 vruh ywm 5 6 1 1 1 1
+500 gc 2639
+300 ywm 1
+500 hbi 10268
+100 rhqo ywm 5 6 1 1 1 1
+200 rhqo 1
+400 254 63 1 ph dxzyix
+100 ag ywm 5 6 1 1 1 1
+400 243 82 1 ph dxzyix
+200 ag 1
+100 tpfuqbrfma ywm 5 6 1 1 1 1
+400 280 168 1 loalayjoi dxzyix
+300 ywm 1
+400 197 137 1 guuiwda dxzyix
+100 yrquv ywm 5 6 1 1 1 1
+300 ywm 1
+500 hbi 10268
+100 uq ywm 5 6 1 1 1 1
+500 tcsea 8592
+300 ywm 1
+100 lnmulgp ywm 5 6 1 1 1 1
+500 fllynlrm 428
+200 lnmulgp 1
+400 265 58 1 ph dxzyix
+100 jvcfhzazyx ywm 5 6 1 1 1 1
+200 jvcfhzazyx 1
+400 196 19 1 guuiwda dxzyix
+100 ssqpvju ywm 5 6 1 1 1 1
+500 cdilo 876
+300 ywm 1
+100 thprlory ywm 5 6 1 1 1 1
+400 251 59 1 ph dxzyix
+300 ywm 1
+400 261 37 1 ph dxzyix
+100 ckm ywm 5 6 1 1 1 1
+200 ckm 1
+400 193 39 1 guuiwda dxzyix
+100 rib ywm 5 6 1 1 1 1
+400 289 198 1 vppvtp cdilo
+300 ywm 1
+100 pvyiput ywm 5 6 1 1 1 1
+400 194 131 1 guuiwda dxzyix
+300 ywm 1
+500 dxzyix 6207
+100 xtnoannf ywm 5 6 1 1 1 1
+300 ywm 1
+500 agrzenh 12679
+100 dz ywm 5 6 1 1 1 1
+500 tsnzlbq 163
+200 dz 1
+100 sugn ywm 5 6 1 1 1 1
+400 199 54 1 guuiwda dxzyix
+300 ywm 1
+500 sbk 11660
+100 yc ywm 5 6 1 1 1 1
+200 yc 1
+400 260 3 1 ph dxzyix
+100 nvih ywm 5 6 1 1 1 1
+500 cdilo 876
+200 nvih 1
+100 miinprqs ywm 5 6 1 1 1 1
+500 nflxfuiwhx 26791
+300 ywm 1
+500 nflxfuiwhx 26791
+100 afs ywm 5 6 1 1 1 1
+300 ywm 1
+500 hbi 10268
+100 irizse ywm 5 6 1 1 1 1
+500 hbi 10268
+200 irizse 1
+100 oculmxufs ywm 5 6 1 1 1 1
+500 fllynlrm 428
+200 oculmxufs 1
+500 ywm 0
+100 rlaqy ywm 5 6 1 1 1 1
+200 rlaqy 1
+500 dxzyix 6207
+100 irmrdgum ywm 5 6 1 1 1 1
+500 hbi 10268
+200 irmrdgum 1
+100 vsabrg ywm 5 6 1 1 1 1
+400 253 40 1 ph dxzyix
+300 ywm 1
+500 fllynlrm 428
+100 xfsfd ywm 5 6 1 1 1 1
+200 xfsfd 1
+400 258 56 1 ph dxzyix
+100 otia ywm 5 6 1 1 1 1
+400 118 71 1 tfvuvuvu dxzyix
+300 ywm 1
+100 lha ywm 5 6 1 1 1 1
+400 261 5 1 ph dxzyix
+300 ywm 1
+500 hbi 10268
+100 njfwrlo ywm 5 6 1 1 1 1
+300 ywm 1
+500 tcsea 8592
+100 miykrlkbxz ywm 5 6 1 1 1 1
+400 193 26 1 guuiwda dxzyix
+200 miykrlkbxz 1
+100 xhvbi ywm 5 6 1 1 1 1
+300 tsnzlbq 2
+100 yqdkhp dxzyix 12 1 1 97 261 1
+100 qtukdnm hbi 17 2 1 206 150 1
+100 qqnmzywc fllynlrm 8 5 1 38 143 1
+100 gsjlhzgnhb gc 8 3 1 225 118 1
+100 bojqdldiyk jkjpq 2 2 1 134 230 1
+100 juqdfsr nflxfuiwhx 1 4 1 61 126 1
+100 zjknh tcsea 18 1 1 76 124 1
+100 chlbf cdilo 13 3 1 193 243 1
+100 dzugd hbi 7 2 1 225 59 1
+100 la tcsea 1 6 1 57 28 1
+100 xdremrttc tcsea 5 2 1 213 258 1
+100 sgfyjpyl dxzyix 3 1 1 76 177 1
+100 bbbjrei agrzenh 10 2 1 253 257 1
+100 hclopgkf fllynlrm 5 4 1 67 21 1
+400 198 51 1 guuiwda dxzyix
+200 xhvbi 1
+500 hbi 10316
+100 phscnq ywm 5 6 1 1 1 1
+200 phscnq 1
+400 189 2 1 guuiwda dxzyix
+100 nvxakonu ywm 5 6 1 1 1 1
+500 jkjpq 786
+300 ywm 1
+100 zbagpsv ywm 5 6 1 1 1 1
+300 cdilo 5
+100 xzdljn tsnzlbq 20 4 1 71 146 1
+100 znbwhx jkjpq 28 2 1 222 259 1
+100 hvmnqd fllynlrm 7 40 1 46 131 1
+100 jvcckcjkyf gc 27 2 1 261 101 1
+100 vwmkiqv tcsea 1 32 1 147 236 1
+100 ovnph sbk 5 4 1 294 138 1
+100 wxx hbi 11 3 1 292 18 1
+100 donxt jkjpq 45 1 1 183 57 1
+100 ah sbk 4 8 1 99 207 1
+100 vdrexipxs jkjpq 1 32 1 224 184 1
+100 zivuw hbi 2 21 1 266 152 1
+100 xq sbk 1 35 1 259 156 1
+100 nahc tsnzlbq 3 17 1 209 119 1
+200 zbagpsv 1
+400 287 17 1 unhqvf dxzyix
+100 cshua ywm 5 6 1 1 1 1
+400 274 183 1 hixk dxzyix
+300 ywm 1
+200 200 200
+100 rmugpym vzcl 77 37 0 146 117 0
+100 ttpxmw gcsfna 94 104 1 27 145 1
+100 ptwofvny in 167 118 0 26 100 0
+100 ekatiepas gcsfna 178 71 0 77 10 0
+100 aqcyrrwsmf mmqlpx 122 119 0 155 190 0
+100 zmpcgqkelo xcsaanmfk 43 84 1 117 194 1
+100 leqv vzcl 103 171 0 117 42 0
+100 lxekuveoq in 141 69 1 31 82 1
+100 ckslidzrwa xtkzmsjdl 30 18 1 158 96 1
+100 ly oppn 78 100 0 154 7 0
+100 qcp sjv 72 140 0 61 53 0
+100 tthn njkccjcnhh 105 139 0 193 156 0
+100 nkutrerbd sjv 3 2 0 169 123 1
+300 rumaa 0
+400 158 194 0
+200 lxekuveoq 1
+500 mmqlpx 0
+500 nllz 0
+300 xtkzmsjdl 1
+300 njkccjcnhh 0
+300 mmqlpx 0
+100 jzjbes gp 111 76 0 30 173 0
+500 rumaa 0
+500 mmqlpx 0
+500 gcsfna 9776
+500 mp 0
+300 in 0
+100 qg xcsaanmfk 118 119 0 141 51 0
+100 akzjzt gykzqgpyb 112 158 0 190 146 0
+100 dctbtqy gcsfna 100 30 1 118 52 1
+200 ckslidzrwa 0
+100 utdzzdyit tqx 161 109 0 141 25 0
+400 167 8 0
+500 gcsfna 12776
+100 gdwjcnzl rumaa 186 105 0 168 12 0
+200 mloht 0
+100 qcsqb xcsaanmfk 58 67 0 58 118 1
+500 tqx 0
+400 144 18 0
+200 kf 0
+400 136 194 0
+400 106 70 1 zmpcgqkelo xcsaanmfk
+400 158 168 0
+200 pgzda 0
+200 xkdlagj 0
+500 gykzqgpyb 0
+100 kefb sjv 171 158 0 80 126 0
+400 82 125 1 qcsqb xcsaanmfk
+200 rmugpym 0
+100 mpl gp 143 38 1 154 71 0
+400 50 169 0
+500 njkccjcnhh 0
+400 4 47 1 ttpxmw gcsfna
+100 vo xtkzmsjdl 68 54 1 137 69 1
+100 bxtdozznv oppn 49 67 0 159 103 0
+100 ymixgk gp 56 99 0 38 130 0
+300 gcsfna 2
+400 116 130 1 vo xtkzmsjdl
+200 afpxikblom 0
+100 por njkccjcnhh 81 183 1 167 59 0
+400 171 125 1 vo xtkzmsjdl
+100 mqehyipj mp 146 174 0 46 98 0
+100 ildh oppn 127 199 1 194 27 0
+500 mp 0
+500 in 0
+100 lp gykzqgpyb 166 191 1 48 174 0
+500 nllz 0
+400 197 21 0
+100 lpxnbo vzcl 87 197 0 83 148 0
+300 xcsaanmfk 2
+400 143 176 1 vo xtkzmsjdl
+500 rumaa 0
+500 njkccjcnhh 0
+400 53 68 0
+200 qg 0
+400 33 197 0
+300 sjv 1
+100 hmefhxt rumaa 160 76 0 142 118 0
+500 gcsfna 0
+100 anlknsoyel gp 159 164 1 38 178 0
+300 gp 0
+100 jxtpjiqso gcsfna 22 29 1 153 166 1
+500 nllz 0
+100 fw gp 135 108 0 144 120 0
+300 gcsfna 1
+100 yvkf tqx 2 67 1 2 59 1
+500 vzcl 0
+500 gp 0
+100 stxiodxexs vzcl 109 191 1 73 77 1
+100 czfy sjv 100 86 0 151 41 0
+400 57 136 1 stxiodxexs vzcl
+500 xcsaanmfk 0
+300 gykzqgpyb 0
+400 193 81 0
+200 fzi 0
+500 gykzqgpyb 0
+100 dm mp 172 58 1 36 162 0
+500 oppn 0
+100 gxilnl mp 147 81 1 175 191 0
+100 gm vzcl 164 43 1 139 121 0
+100 goeepprcx in 178 115 1 168 176 0
+100 egphurfyv njkccjcnhh 72 79 1 44 51 1
+400 43 170 1 stxiodxexs vzcl
+400 91 41 1 stxiodxexs vzcl
+400 64 154 1 stxiodxexs vzcl
+200 ibbxv 0
+100 kxfqjg mp 41 63 0 84 17 0
+100 qqpeabbluj gcsfna 104 70 0 2 38 0
+200 bbji 0
+400 170 127 1 vo xtkzmsjdl
+100 smijkuc vzcl 172 161 0 85 135 0
+400 9 174 1 stxiodxexs vzcl
+400 184 28 0
+300 tqx 1
+100 xdofum gcsfna 125 2 1 145 194 1
+400 90 163 1 stxiodxexs vzcl
+100 vqp nllz 131 149 1 56 122 0
+100 ngdr tqx 177 136 0 169 140 0
+500 njkccjcnhh 5688
+200 jzjbes 0
+300 xcsaanmfk 0
+200 rmugpym 0
+100 lqnnugp gcsfna 38 39 1 34 151 1
+100 lajoz mmqlpx 150 71 1 113 71 0
+500 nllz 0
+100 hw gykzqgpyb 124 122 0 53 68 0
+500 gykzqgpyb 0
+100 zksbrcjad nllz 100 19 0 3 187 0
+500 xcsaanmfk 0
+100 nzwbtcx xcsaanmfk 173 52 0 68 90 0
+400 75 117 1 stxiodxexs vzcl
+400 190 134 0
+300 tqx 0
+300 xcsaanmfk 0
+200 dm 0
+100 nge gp 123 99 0 116 114 0
+200 otouwymur 0
+500 in 0
+400 195 137 0
+200 vqp 0
+400 32 27 1 stxiodxexs vzcl
+300 xcsaanmfk 0
+500 xcsaanmfk 0
+400 104 180 1 stxiodxexs vzcl
+100 edwrtfu tqx 117 29 0 145 186 0
+100 oyoj xtkzmsjdl 84 37 1 39 149 0
+500 in 0
+100 rmrrbana tqx 6 28 0 136 91 0
+300 nllz 0
+100 sxszm tqx 179 20 0 43 43 0
+100 wdfnuygrjn mmqlpx 140 51 0 117 84 0
+300 oppn 0
+300 njkccjcnhh 1
+500 oppn 0
+500 tqx 0
+100 htfv gp 98 113 0 78 46 0
+500 njkccjcnhh 0
+100 pceetr mmqlpx 26 114 0 180 182 0
+100 qcyuyi xcsaanmfk 123 160 1 133 161 0
+100 ma tqx 140 146 1 192 53 0
+100 xqwfiaya in 28 122 0 195 196 0
+500 njkccjcnhh 0
+400 58 82 1 stxiodxexs vzcl
+500 oppn 0
+100 sxo mp 123 140 0 115 105 0
+300 gp 0
+300 oppn 0
+100 tmagwsvok njkccjcnhh 131 22 1 124 79 0
+100 fh vzcl 57 86 0 156 189 0
+400 102 98 1 stxiodxexs vzcl
+500 oppn 0
+300 sjv 0
+100 wlwealma gykzqgpyb 54 80 1 169 30 0
+400 41 186 1 stxiodxexs vzcl
+400 22 118 1 stxiodxexs vzcl
+400 116 191 0
+400 185 179 0
+100 ojvf njkccjcnhh 175 116 0 71 104 0
+100 oclagoi gykzqgpyb 65 33 1 44 183 1
+100 wcgv xtkzmsjdl 45 191 0 17 11 0
+300 rumaa 0
+100 nzymj mp 40 23 0 112 94 0
+200 ojvf 0
+100 bybu vzcl 161 132 0 145 173 0
+100 mteo vzcl 127 60 0 179 138 0
+500 gykzqgpyb 2145
+300 gykzqgpyb 1
+500 xtkzmsjdl 3672
+100 spafmk gp 165 117 0 165 129 0
+100 ftyj gcsfna 110 86 0 54 104 0
+200 rmrrbana 0
+300 mp 0
+500 gykzqgpyb 0
+500 tqx 0
+100 pc oppn 65 184 0 91 43 0
+400 48 4 1 stxiodxexs vzcl
+100 rqzwzfkt rumaa 174 189 0 34 68 0
+200 ckslidzrwa 0
+100 gu xcsaanmfk 111 55 0 162 187 0
+500 xtkzmsjdl 3672
