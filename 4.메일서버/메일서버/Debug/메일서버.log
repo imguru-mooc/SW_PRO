@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Dropbox\imguru_내부공유\고급_알고리즘검정\source\메일서버\메일서버\main.cpp(137,9): warning C4101: 'uid' :참조되지 않은 지역 변수입니다.
+  메일서버.vcxproj -> D:\Dropbox\imguru_내부공유\고급_알고리즘검정\source\메일서버\Debug\메일서버.exe
