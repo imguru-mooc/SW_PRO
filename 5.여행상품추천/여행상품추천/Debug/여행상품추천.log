@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Dropbox\imguru_내부공유\고급_알고리즘검정\source\여행상품추천\여행상품추천\main.cpp(414,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+D:\Dropbox\imguru_내부공유\고급_알고리즘검정\source\여행상품추천\여행상품추천\main.cpp(413,6): warning C4101: 'pid' :참조되지 않은 지역 변수입니다.
+D:\Dropbox\imguru_내부공유\고급_알고리즘검정\source\여행상품추천\여행상품추천\main.cpp(416,8): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  여행상품추천.vcxproj -> D:\Dropbox\imguru_내부공유\고급_알고리즘검정\source\여행상품추천\Debug\여행상품추천.exe
