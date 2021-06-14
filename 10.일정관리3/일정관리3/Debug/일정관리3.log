@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Dropbox\imguru_내부공유\고급_알고리즘검정\source\10.일정관리3\일정관리3\main.cpp(282,11): warning C4101: 'temp2' :참조되지 않은 지역 변수입니다.
+  일정관리3.vcxproj -> D:\Dropbox\imguru_내부공유\고급_알고리즘검정\source\10.일정관리3\Debug\일정관리3.exe
