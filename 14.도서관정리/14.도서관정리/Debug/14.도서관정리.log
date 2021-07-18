@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jikim\Dropbox\imguru_내부공유\고급_알고리즘검정\source\14.도서관정리\14.도서관정리\main.cpp(221,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  14.도서관정리.vcxproj -> C:\Users\jikim\Dropbox\imguru_내부공유\고급_알고리즘검정\source\14.도서관정리\Debug\14.도서관정리.exe
